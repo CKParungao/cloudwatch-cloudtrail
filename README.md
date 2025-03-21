@@ -2,18 +2,23 @@
 
 Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership. It is simple to set up, operate, and scale with demand. In this activity, you will learn how to create, manage, and scale your own database in the cloud using Amazon RDS.
 
-**Disclaimer:** This activity is based on Sanjeev Thiyagarajan's [tutorial](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421).
+**Disclaimer:** This activity is based on [Tiny Technical Tutorials'](https://www.youtube.com/watch?v=Yxl7e88cTAQ&ab_channel=TinyTechnicalTutorials) and [Cloud With Django's](https://www.youtube.com/watch?v=P6U89YLJ-ss&ab_channel=CloudWithDjango) tutorials.
 
 ## 📋 Requirements
 1. **Browser** (Google Chrome, Microsoft Edge, Opera GX, etc.)
 2. **AWS Account**
-3. [**pgAdmin 4**](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v9.0/windows/)
 
 ## 🎯 Objectives
-1. **Create an RDS Instance** and configure security for access.
-2. **Define Database schemas and tables.**
-3. **Launch an EC2 Instance** for hosting the app.
-4. **Connect the App to RDS** using the connection string.
+1. **Enable CloudTrail** to log API requests and events.
+2. **Configure CloudWatch Alarms** for EC2 and RDS metrics.
+3. **Set Up Log Streams** in CloudWatch for app logs.
+4. **Analyze Logs** to monitor system performance.
+
+## ✒️ Part 1: Title
+1. 
+
+## ✒️ Part 2: Title
+1. 
 
 ## ✒️ Part 3: Housekeeping
 1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app to avoid incurring costs.
