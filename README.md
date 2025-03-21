@@ -1,6 +1,6 @@
 # ☁️ CloudWatch and CloudTrail 101: Logging and Monitoring with AWS ☁️
 
-Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership. It is simple to set up, operate, and scale with demand. In this activity, you will learn how to create, manage, and scale your own database in the cloud using Amazon RDS.
+Amazon CloudWatch and AWS CloudTrail provide unified monitoring and auditing for your AWS resources. CloudWatch tracks performance, while CloudTrail logs API activity. In this activity, you will learn the fundamental practices of monitoring and auditing your AWS environment using CloudWatch and CloudTrail.
 
 **Disclaimer:** This activity is based on [Tiny Technical Tutorials'](https://www.youtube.com/watch?v=Yxl7e88cTAQ&ab_channel=TinyTechnicalTutorials) and [Cloud With Django's](https://www.youtube.com/watch?v=P6U89YLJ-ss&ab_channel=CloudWithDjango) tutorials.
 
