@@ -23,18 +23,13 @@ Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational 
 ## ✒️ Part 3: Housekeeping
 1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app to avoid incurring costs.
 2. Select the radio button of `my-first-db`, then click on `Actions`->`Delete`.
-
-![image](https://github.com/user-attachments/assets/fc5113c2-19f8-4a9f-a703-b47d2580551c)
-
 3. Deselect the ticked boxes `Create final snapshot` and `Retain automated backups`.
 4. Tick on the deletion acknowledgment box then type `delete me` as a confirmation.
-
-![image](https://github.com/user-attachments/assets/fa759fc9-fe12-46be-a5cd-3b0d6f711961)
-
 5. Disconnect and delete the databases `myapp` and `aws-rds` then remove the PostgreSQL server in the pgAdmin application.
 
 ## 📚 Authors
 ### Activity and Code Materials
-- Sanjeev Thiyagarajan ([KodeKloud](https://youtu.be/ylmwaDUMV9c?si=jGnEN8NObwqD8-jc&t=421))
+- [Tiny Technical Tutorials](https://www.youtube.com/watch?v=Yxl7e88cTAQ&ab_channel=TinyTechnicalTutorials)
+- [Cloud With Django](https://www.youtube.com/watch?v=P6U89YLJ-ss&ab_channel=CloudWithDjango)
 ### Learning Material
 - Crystal Katherine Parungao ([CKParungao](https://github.com/CKParungao))
