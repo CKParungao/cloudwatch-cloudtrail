@@ -29,13 +29,30 @@
 6. Tick `Management events` as the event type. Keep everything as is, click `Next`, then `Create trail`.
 7. Set aside and you may do various API calls, such as creating instances, buckets, tables, etc. Meanwhile, you may move onto CloudWatch first.
 
-## ✒️ Part 2: CloudWatch
+## ✒️ Part 2: EC2 - Instance Creation
+1. Navigate to `EC2`, then click `Instances` on the navigation menu.
+2. Click the `Launch instances` button.
+
+![image](https://github.com/user-attachments/assets/f32c3bbb-6991-44f7-ac64-6984110af65a)
+
+3. Click the `Launch instances' button.
+4. Use `cw-yourname` for Instance Name and choose `Windows` under the Quick Start tab. Make sure that your Amazon Machine Image (AMI) is free tier eligible.
+
+![image](https://github.com/user-attachments/assets/4c902637-e575-4aa2-8fec-9ad8adb72738)
+
+5. Select `Proceed without a key pair (not recommended)` under the Key Pair (Login).
+
+![image](https://github.com/user-attachments/assets/0f108ae1-8f38-444b-83ed-cf6eb1c424bf)
+
+6. Leave everything at default and click the `Launch instance` button.
+
+## ✒️ Part 3: CloudWatch - Monitoring
 1. 
 
-## ✒️ Part 3: CloudTrail - Log Check
+## ✒️ Part 4: CloudTrail - Log Check
 1. 
 
-## ✒️ Part 4: Housekeeping
+## ✒️ Part 5: Housekeeping
 **This is IMPORTANT.** Once you have finished the activity and obtained the required screenshots, **delete all created services and instances in EC2, CloudWatch, and CloudTrail to avoid incurring costs.**
 
 ## 📚 Authors
