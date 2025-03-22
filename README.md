@@ -74,7 +74,11 @@
 ![image](https://github.com/user-attachments/assets/c207b156-a6d1-4698-8ec2-8886eb00ad96)
 
 ## ✒️ Part 4: CloudTrail - Log Check
-1. 
+1. Navigate back to `CloudTrail` and click `Trails` on the navigation menu. Select the S3 bucket of your trail and just explore and observe the folders and logs made during this whole tutorial.
+2. Once done, go to the CloudTrail `Dashboard` and check out the `Event history`.
+3. Take a screenshot of the whole page and ensure that the created events and your username are visible. Here's an example:
+
+![image](https://github.com/user-attachments/assets/b8c18cd9-b799-45c7-9298-c5c229877ae0)
 
 ## ✒️ Part 5: Housekeeping
 **This is IMPORTANT.** Once you have finished the activity and obtained the required screenshots, **delete all created services and instances in EC2, CloudWatch, and CloudTrail to avoid incurring costs.**
