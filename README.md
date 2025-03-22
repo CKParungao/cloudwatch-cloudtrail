@@ -21,11 +21,7 @@
 1. 
 
 ## ✒️ Part 3: Housekeeping
-1. Once you have finished the activity and obtained the required screenshots, delete all created services and instances in RDS and in the pgAdmin app to avoid incurring costs.
-2. Select the radio button of `my-first-db`, then click on `Actions`->`Delete`.
-3. Deselect the ticked boxes `Create final snapshot` and `Retain automated backups`.
-4. Tick on the deletion acknowledgment box then type `delete me` as a confirmation.
-5. Disconnect and delete the databases `myapp` and `aws-rds` then remove the PostgreSQL server in the pgAdmin application.
+Once you have finished the activity and obtained the required screenshots, delete all created services and instances in EC2, CloudWatch, and CloudTrail to avoid incurring costs.
 
 ## 📚 Authors
 ### Activity and Code Materials
