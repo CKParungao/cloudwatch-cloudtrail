@@ -16,17 +16,17 @@
 
 ## ✒️ Part 1: CloudTrail - Trail Creation
 1. Log in to your AWS Console.
-2. Navigate to `CloudTrail` then click `Trails` on the navigation menu.
+2. Navigate to `CloudTrail`, then click `Trails` on the navigation menu.
 3. Click the `Create trail` button.
 
 ![image](https://github.com/user-attachments/assets/3498a2a0-7c42-4381-bbe5-806ed48e3c47)
 
 4. Use `management-events-yourname` for the Trail Name and choose `Create new S3 bucket` for the Storage Location.
-5. Disable `Log file SSE-KMS encryption` and `Log file validation` then click the `Next` button.
+5. Disable `Log file SSE-KMS encryption` and `Log file validation`, then click the `Next` button.
 
 ![image](https://github.com/user-attachments/assets/cd3128ad-c96c-4a9f-986f-0083f6b963c5)
 
-6. Tick `Management events` as the event type. Keep everything as is, click `Next` then `Create trail`.
+6. Tick `Management events` as the event type. Keep everything as is, click `Next`, then `Create trail`.
 7. Set aside and you may do various API calls, such as creating instances, buckets, tables, etc. Meanwhile, you may move onto CloudWatch first.
 
 ## ✒️ Part 2: CloudWatch
