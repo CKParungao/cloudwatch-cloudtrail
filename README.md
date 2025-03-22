@@ -10,7 +10,7 @@ Amazon CloudWatch and AWS CloudTrail provide unified monitoring and auditing for
 
 ## 🎯 Objectives
 1. **Enable CloudTrail** to log API requests and events.
-2. **Configure CloudWatch Alarms** for EC2 and RDS metrics.
+2. **Configure CloudWatch Alarms** for EC2 metrics.
 3. **Set Up Log Streams** in CloudWatch for app logs.
 4. **Analyze Logs** to monitor system performance.
 
