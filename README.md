@@ -1,4 +1,4 @@
-# ☁️ CloudWatch and CloudTrail 101: Logging and Monitoring with AWS ☁️
+![image](https://github.com/user-attachments/assets/1397ad98-067a-4d89-a6aa-5545ba0c232d)# ☁️ CloudWatch and CloudTrail 101: Logging and Monitoring with AWS ☁️
 
 **Amazon CloudWatch** and **AWS CloudTrail** provide unified monitoring and auditing for your AWS resources. CloudWatch tracks performance, while CloudTrail logs API activity. In this activity, you will learn the fundamental practices of monitoring and auditing your AWS environment using CloudWatch and CloudTrail.
 
@@ -15,7 +15,7 @@
 4. **Analyze Logs** to monitor system performance.
 
 ## ✒️ Part 1: CloudTrail - Trail Creation
-1. Log in to your AWS Console.
+1. Log in to your AWS Console. Ensure that you are on the `ap-southeast-1` region.
 2. Navigate to `CloudTrail`, then click `Trails` on the navigation menu.
 3. Click the `Create trail` button.
 
@@ -27,7 +27,7 @@
 ![image](https://github.com/user-attachments/assets/cd3128ad-c96c-4a9f-986f-0083f6b963c5)
 
 6. Tick `Management events` as the event type. Keep everything as is, click `Next`, then `Create trail`.
-7. Set aside and you may do various API calls, such as creating instances, buckets, tables, etc. Meanwhile, you may move onto CloudWatch first.
+7. Set aside and you may do various API calls, such as creating instances, buckets, tables, etc. Meanwhile, you may move onto Part 2 first.
 
 ## ✒️ Part 2: EC2 - Instance Creation
 1. Navigate to `EC2`, then click `Instances` on the navigation menu.
@@ -44,10 +44,16 @@
 
 ![image](https://github.com/user-attachments/assets/0f108ae1-8f38-444b-83ed-cf6eb1c424bf)
 
-6. Leave everything at default and click the `Launch instance` button.
+6. Leave everything at default and click the `Launch instance` button. Keep this instance running for at least 30 minutes before moving onto Part 3.
 
 ## ✒️ Part 3: CloudWatch - Monitoring
-1. 
+1. Navigate to `CloudWatch` and click `All metrics` on the navigation menu.
+2. Make sure that you are under the same region as your AWS environment from where you created your previous EC2 instance (`ap-southeast-1`).
+
+![image](https://github.com/user-attachments/assets/39f66657-5c38-48c0-b10e-74227b0df914)
+
+3. Click `EC2` on the namespaces, then click on `Per-Instance Metrics`.
+4. 
 
 ## ✒️ Part 4: CloudTrail - Log Check
 1. 
