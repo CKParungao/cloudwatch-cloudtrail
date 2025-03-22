@@ -53,7 +53,10 @@
 ![image](https://github.com/user-attachments/assets/39f66657-5c38-48c0-b10e-74227b0df914)
 
 3. Click `EC2` on the namespaces, then click on `Per-Instance Metrics`.
-4. 
+4. Isolate the metrics of your created instance by clicking the `+` button beside the respective InstanceID of your EC2 instance.
+
+![image](https://github.com/user-attachments/assets/44dbe5e7-e4c3-485e-bf69-f36430d1f543)
+
 
 ## ✒️ Part 4: CloudTrail - Log Check
 1. 
