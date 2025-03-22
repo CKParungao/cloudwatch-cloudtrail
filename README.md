@@ -30,7 +30,7 @@ Amazon CloudWatch and AWS CloudTrail provide unified monitoring and auditing for
 ## 📚 Authors
 ### Activity and Code Materials
 - [Tiny Technical Tutorials](https://www.youtube.com/watch?v=Yxl7e88cTAQ&ab_channel=TinyTechnicalTutorials)
-- [SkillCurb's](https://www.youtube.com/watch?v=aYhlY9yxeEw)
+- [SkillCurb](https://www.youtube.com/watch?v=aYhlY9yxeEw)
 - [Cloud With Django](https://www.youtube.com/watch?v=P6U89YLJ-ss&ab_channel=CloudWithDjango)
 ### Learning Material
 - Crystal Katherine Parungao ([CKParungao](https://github.com/CKParungao))
