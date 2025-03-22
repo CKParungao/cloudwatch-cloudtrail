@@ -1,6 +1,6 @@
 # ☁️ CloudWatch and CloudTrail 101: Logging and Monitoring with AWS ☁️
 
-Amazon CloudWatch and AWS CloudTrail provide unified monitoring and auditing for your AWS resources. CloudWatch tracks performance, while CloudTrail logs API activity. In this activity, you will learn the fundamental practices of monitoring and auditing your AWS environment using CloudWatch and CloudTrail.
+**Amazon CloudWatch and AWS CloudTrail** provide unified monitoring and auditing for your AWS resources. CloudWatch tracks performance, while CloudTrail logs API activity. In this activity, you will learn the fundamental practices of monitoring and auditing your AWS environment using CloudWatch and CloudTrail.
 
 **Disclaimer:** This activity is based on [Tiny Technical Tutorials'](https://www.youtube.com/watch?v=Yxl7e88cTAQ&ab_channel=TinyTechnicalTutorials), [SkillCurb's](https://www.youtube.com/watch?v=aYhlY9yxeEw), and [Cloud With Django's](https://www.youtube.com/watch?v=P6U89YLJ-ss&ab_channel=CloudWithDjango) tutorials.
 
