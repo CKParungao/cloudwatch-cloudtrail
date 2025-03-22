@@ -82,7 +82,7 @@
 ![image](https://github.com/user-attachments/assets/b8c18cd9-b799-45c7-9298-c5c229877ae0)
 
 ## ✒️ Part 5: Housekeeping
-**This is IMPORTANT.** Once you have finished the activity and obtained the required screenshots, **delete all created services and instances in EC2, CloudWatch, and CloudTrail to avoid incurring costs.**
+**This is IMPORTANT.** Once you have finished the activity and obtained the required screenshots, **delete, terminate, and disconnect all created services and instances in EC2, CloudWatch, and CloudTrail to avoid incurring costs.**
 
 ## 📚 Authors
 ### Activity and Code Materials
