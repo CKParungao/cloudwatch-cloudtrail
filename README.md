@@ -53,7 +53,7 @@
 ![image](https://github.com/user-attachments/assets/39f66657-5c38-48c0-b10e-74227b0df914)
 
 3. Click `EC2` on the namespaces, then click on `Per-Instance Metrics`.
-4. Isolate the metrics of your created instance by clicking the `+` button beside the respective InstanceID of your EC2 instance.
+4. Isolate the metrics of your created instance by clicking the `+` button beside the respective Instance ID of your EC2 instance.
 
 ![image](https://github.com/user-attachments/assets/44dbe5e7-e4c3-485e-bf69-f36430d1f543)
 
@@ -63,6 +63,15 @@
 ![image](https://github.com/user-attachments/assets/b4be3b8f-d065-4985-bb30-fbeb9949db77)
 
 7. Try different actions, such as zooming in, zooming out, and ticking multiple metrics at once. Observe what happens. Additionally, you may check out the different `Chart Types` and `Actions` for your graph.
+8. Take a screenshot of the whole page and ensure that the graph and your username are visible. Here's an example:
+
+![image](https://github.com/user-attachments/assets/b1c83ecc-71ca-4dd6-b43a-7450cf82065d)
+
+9. Navigate back to `EC2` and choose `Instances` on the navigation menu.
+10. Click the `Instance ID` of your created EC2 instance, then click the `Monitoring` tab. Observe the graphs.
+11. Take a screenshot of the whole page and ensure that the graphs and your username are visible. Here's an example:
+
+![image](https://github.com/user-attachments/assets/c207b156-a6d1-4698-8ec2-8886eb00ad96)
 
 ## ✒️ Part 4: CloudTrail - Log Check
 1. 
