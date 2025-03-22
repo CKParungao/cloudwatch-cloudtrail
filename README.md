@@ -75,9 +75,10 @@
 
 ## ✒️ Part 4: CloudTrail - Log Check
 1. Navigate back to `CloudTrail` and click `Trails` on the navigation menu. Select the S3 bucket of your trail and just explore and observe the folders and logs made during this whole tutorial.
-2. Once done, go to the CloudTrail `Dashboard` and check out the `Event history`.
-3. Take a screenshot of the whole page and ensure that the created events and your username are visible. Here's an example:
+2. Once done, go to `Event history` or the `Dashboard` under the navigation menu and check out the `Event history`. Observe the events.
+3. Take a screenshot of the whole page and ensure that the created events and your username are visible. Here are examples:
 
+![image](https://github.com/user-attachments/assets/4cfc3ad6-42ef-4400-962f-5f570c8f5d67)
 ![image](https://github.com/user-attachments/assets/b8c18cd9-b799-45c7-9298-c5c229877ae0)
 
 ## ✒️ Part 5: Housekeeping
