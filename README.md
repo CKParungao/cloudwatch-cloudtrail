@@ -57,6 +57,11 @@
 
 ![image](https://github.com/user-attachments/assets/44dbe5e7-e4c3-485e-bf69-f36430d1f543)
 
+5. Tick the box of your `CPUUtilization` metric. You may also opt to tick multiple boxes for this step.
+6. Change the Date-Time range of your graph by choosing `1h`.
+
+![image](https://github.com/user-attachments/assets/b4be3b8f-d065-4985-bb30-fbeb9949db77)
+
 
 ## ✒️ Part 4: CloudTrail - Log Check
 1. 
