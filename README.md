@@ -14,10 +14,10 @@ Amazon CloudWatch and AWS CloudTrail provide unified monitoring and auditing for
 3. **Set Up Log Streams** in CloudWatch for app logs.
 4. **Analyze Logs** to monitor system performance.
 
-## ✒️ Part 1: Title
+## ✒️ Part 1: CloudWatch
 1. 
 
-## ✒️ Part 2: Title
+## ✒️ Part 2: CloudTrail
 1. 
 
 ## ✒️ Part 3: Housekeeping
